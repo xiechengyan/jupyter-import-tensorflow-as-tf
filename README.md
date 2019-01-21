@@ -1,2 +1,7 @@
 # jupyter-import-tensorflow-as-tf
-## Anaconda Prompt: activate tensorflow
+## 在Anaconda Prompt命令行下输入:
+<kbd>activate tensorflow</kbd>
+<kbd>conda install ipython</kbd>
+<kbd>conda install jupyer</kbd>
+
+  
